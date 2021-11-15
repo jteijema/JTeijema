@@ -9,4 +9,4 @@ Currently, I am working on ASReview, an active learning AI project.
 #### Contact:
 📫  Mail me at <jelle@teije.ma>
 
-📲  Message me at telegram [(@JetJailMelee)](https://t.me/JetJailMelee)
+📲  Message me on telegram [(@JetJailMelee)](https://t.me/JetJailMelee)
