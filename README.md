@@ -1,6 +1,6 @@
-## Hi 👋! I'm `Jelle` and this is my Github Page.
+## Hi 👋! I'm `Jelle`, and this is my Github Page.
 
-I'm a researcher and starting software engineer working on my PhD at Utrecht
+I'm a researcher and starting software engineer working on my Ph.D. at Utrecht
 University. Visit my page at [✨Teije.ma✨](https://teije.ma)... Or don't, I'm not
 your boss, yet.
 
